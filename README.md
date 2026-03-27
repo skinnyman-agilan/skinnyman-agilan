@@ -88,7 +88,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=skinnyman-agilan&locale=en&mode=weekly&theme=tokyonight&hide_border=true&border_radius=20&date_format=M%20j%5B,%20Y%5D&order=3" height="120" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=skinnyman-agilan&locale=en&mode=weekly&theme=tokyonight&hide_border=true&border_radius=20&date_format=M%20j%5B,%20Y%5D&order=3" height="160" alt="streak graph"  />
 </div>
 
 ###
